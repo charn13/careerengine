@@ -1,0 +1,18 @@
+
+
+.heading{
+  padding: 25px;
+}
+.bgcolor{
+  background: (78.32deg, #D5DDFF 0%, rgba(251, 248, 253, 0.79) 47.01%, #ECD1F5 99.62%);
+}
+
+.blue-section {
+  background-color: #3498db; /* Set the background color to blue */
+
+  /* Add dots as a background image */
+  background-image: radial-gradient(white 1px, transparent 1px),
+                    radial-gradient(white 1px, transparent 1px);
+  background-position: 0 0, 25px 25px;
+  background-size: 50px 50px; /* Adjust the size based on your preference */
+}
